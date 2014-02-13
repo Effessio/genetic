@@ -41,12 +41,9 @@ class Population:
     def show(self):
 
         for i in self.list:
-<<<<<<< HEAD
-            print i,
-=======
             print 'item '+str(self.list.index(i)+1)
->>>>>>> 980ddb347b7310a8b20cb2ad56a3085e3a6cbe87
             print i.itog
+        print "ready"
 
 
 
