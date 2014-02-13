@@ -41,7 +41,7 @@ class Population:
     def show(self):
 
         for i in self.list:
-            print i.itog
+            print self.list.index(i)+1,  i.itog
 
 
 
