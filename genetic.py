@@ -49,7 +49,7 @@ class Population:
 
 
 population = Population()
-print 'basic population111'
+print '2-nd changed'
 population.show()
 
 for i in range(10):
