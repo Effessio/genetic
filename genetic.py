@@ -49,7 +49,7 @@ class Population:
 
 
 population = Population()
-print 'HG rep shanged'
+print 'now git rep changed'
 population.show()
 
 for i in range(10):
